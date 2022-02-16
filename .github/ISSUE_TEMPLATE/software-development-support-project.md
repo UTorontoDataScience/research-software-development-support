@@ -9,7 +9,7 @@ assignees: cklamann
 
 # Project description
 
-Describe the existing software and the research it supports/enables.
+Describe the existing software and the research it supports/enables, including any links to existing sites, documentation, or code repositories.
 
 # Support goals
 
