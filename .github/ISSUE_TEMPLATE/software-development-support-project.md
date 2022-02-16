@@ -11,6 +11,14 @@ assignees: cklamann
 
 Describe the existing software and the research it supports/enables, including any links to existing sites, documentation, or code repositories.
 
+# Code repository
+
+Provide a link (if any) to project codebase.
+
+# Researcher
+
+Provide details of PI, including relevant links.
+
 # Support goals
 
 Describe the goal for the period of DSI support. What new technology will be developed? What features will be added?
